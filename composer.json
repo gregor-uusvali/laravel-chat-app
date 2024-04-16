@@ -1,0 +1,6 @@
+{
+    "name": "gregor-uusvali/php-web-scraper",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    }
+}
